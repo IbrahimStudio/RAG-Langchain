@@ -1,0 +1,4 @@
+Read Me
+https://www.youtube.com/watch?v=sVcwVQRHIc8&t=466s
+https://www.freecodecamp.org/news/beginners-guide-to-langchain/
+https://github.com/IbrahimStudio/RAG-FreeCodeCamp.git
